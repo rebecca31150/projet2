@@ -20,6 +20,7 @@ p{
     
     border-style: double;
     border-color: aqua;
+    z-index: 0;
     
 }
 h2{
@@ -28,4 +29,5 @@ h2{
 div{
     top: 5mm;
     margin-left: 50 mm;
+    z-index:1;
 }
