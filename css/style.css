@@ -20,13 +20,15 @@ p{
     
     border-style: double;
     border-color: aqua;
-    z-index: 0;
+    z-index: -1;
     
 }
 h2{
     position: absolute;
+    text-decoration: azure;
+    text-align: justify;
 }
-div{
+div position {
     top: 5mm;
     margin-left: 50 mm;
     z-index:1;
