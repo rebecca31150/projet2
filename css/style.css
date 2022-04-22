@@ -11,7 +11,7 @@ img{
     border-top: 5mm;
 }
 p{
-    text-align: center;
+    text-align: right;
     margin: 50mm;
     background-color: blue;
     font-family: 'Courier New', Courier, monospace;
@@ -20,4 +20,5 @@ p{
     width: 200mm;
     border-style: double;
     border-color: aqua;
+    display: initial;
 }
