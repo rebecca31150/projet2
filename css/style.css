@@ -16,5 +16,5 @@ p{
     font-family: 'Courier New', Courier, monospace;
     font: bold;
     color: yellow;
-    border-color: aqua;
+    border-width: 5mm; border-color: beige;
 }
