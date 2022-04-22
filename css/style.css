@@ -34,5 +34,5 @@ div position {
     top: 5mm;
     margin-left: 50 mm;
     z-index:1;
-    width: 80%;
+    max-width: max-content;
 }
