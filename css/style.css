@@ -6,7 +6,8 @@ h1{
     color: hwb(240 0% 0%);
 }
 img{
-    float:left
+    float:left;
+    margin-block: 20mm;
 }
 p{
     text-align: center;
