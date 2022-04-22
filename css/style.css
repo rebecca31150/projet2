@@ -22,3 +22,10 @@ p{
     border-color: aqua;
     
 }
+h2{
+    position: absolute;
+}
+div{
+    top: 5mm;
+    margin-left: 50 mm;
+}
