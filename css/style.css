@@ -10,17 +10,17 @@ img{
     float:left;
 }
 p{
-    position: relative;
     text-align: right;
     margin: 5mm;
     background-color: blue;
     font-family: 'Courier New', Courier, monospace;
     font: bold;
     color: yellow;
-    
+    width: 10cm;
     border-style: double;
     border-color: aqua;
     z-index: -1;
+    box-sizing: border-box;
     
 }
 h2{
@@ -34,5 +34,5 @@ div position {
     top: 5mm;
     margin-left: 50 mm;
     z-index:1;
-    max-width: max-content;
+   width: 10cm;
 }
