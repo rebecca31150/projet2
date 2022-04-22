@@ -8,7 +8,7 @@ h1{
 img{
     float:left;
     margin-block: 5mm;
-    border-bottom: 5mm;
+    border-top: 5mm;
 }
 p{
     text-align: center;
@@ -18,4 +18,5 @@ p{
     font: bold;
     color: yellow;
     width: 200mm;
+    border-style: double;
 }
