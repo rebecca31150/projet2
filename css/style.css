@@ -1,9 +1,9 @@
 body{
-    background-color: azure;
+    background-color: rgb(9, 9, 241);
 }
 h1{
     text-align: center;
-    color: hwb(240 0% 0%);
+    color: hwb(202 30% 19% / 0.468);
 }
 img{
     position: relative;
@@ -16,23 +16,24 @@ p{
     font-family: 'Courier New', Courier, monospace;
     font: bold;
     color: yellow;
-    width: 10cm;
-    border-style: double;
+    width: 15cm;
     border-color: aqua;
-    z-index: -1;
+    z-index: 3;
+    position: absolute; bottom: 110mm;
     box-sizing: border-box;
-    
+    border-radius: 20px 0px 10px 0px;
+    border: 5px solid;
 }
 h2{
 position: absolute;
     text-align: right;
-    text-shadow: cyan;
     border-bottom: 2mm;
     z-index: 1;
+    
 }
 div position {
     top: 5mm;
-    margin-left: 50 mm;
+   
     z-index:1;
-   width: 10cm;
+   
 }
