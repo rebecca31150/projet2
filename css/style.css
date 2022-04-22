@@ -4,7 +4,7 @@ body{
 h1{
     text-align: center;
     color: hwb(240 0% 0%);
-    border-width: 5mm; border-color: beige;
+    border: 5mm;
 }
 img{
     float:left;
