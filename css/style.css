@@ -8,8 +8,6 @@ h1{
 img{
     position: relative;
     float:left;
-    margin-block: 20mm;
-    border-top: 5mm;
 }
 p{
     position: relative;
@@ -19,8 +17,11 @@ p{
     font-family: 'Courier New', Courier, monospace;
     font: bold;
     color: yellow;
-    width: 200mm;
+    
     border-style: double;
     border-color: aqua;
-    display: inline;
+    
+}
+class "sans display"{
+delete display
 }
