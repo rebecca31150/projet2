@@ -24,7 +24,7 @@ p{
     
 }
 h2{
-    position: absolute;
+position: relative;
     text-align: justify;
     text-shadow: cyan;
     border-bottom: 2mm;
