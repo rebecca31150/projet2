@@ -24,10 +24,11 @@ p{
     
 }
 h2{
-position: relative;
-    text-align: justify;
+position: absolute;
+    text-align: right;
     text-shadow: cyan;
     border-bottom: 2mm;
+    z-index: 1;
 }
 div position {
     top: 5mm;
